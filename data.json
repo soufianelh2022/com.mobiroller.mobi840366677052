@@ -24,14 +24,14 @@
     },
     "moreApps": [
         {
-            "image": "https://picsum.photos/300/200?random=23",
-            "title": "Weather Pro",
-            "appLink": "https://play.google.com/store/apps/weather"
+            "image": "https://play-lh.googleusercontent.com/87ZWG0h0ohRprr_B-ikfu66EgiL__wNWROk9yW5xl918h0RSzfAjRC4OnIaXhTux_mRW=s48-rw",
+            "title": "Township",
+            "appLink": "https://play.google.com/store/apps/details?id=com.playrix.township"
         },
         {
-            "image": "https://picsum.photos/300/200?random=24",
-            "title": "Fitness Tracker",
-            "appLink": "https://play.google.com/store/apps/fitness"
+            "image": "https://play-lh.googleusercontent.com/3hRbDjRjWMM6fIqfLFFt87W-_UCv-slKX46_zpDGc-i7Qv5GloRvtxoYpIrGILNUDc4=s48-rw",
+            "title": "My Perfect Hotel",
+            "appLink": "https://play.google.com/store/apps/details?id=com.master.hotelmaster"
         },
         {
             "image": "https://picsum.photos/300/200?random=25",
@@ -44,62 +44,62 @@
             "items": [
                 {
                     "size": "2.8 MB",
-                    "image": "https://picsum.photos/300/200?random=2",
-                    "title": "Adventure Quest",
-                    "lastUpdated": "2024-03-15",
+                    "image": "https://i.ytimg.com/vi/zFFvx3X5pqY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACmgWKAgwIABABGHIgWSg-MA8=&amp;rs=AOn4CLA0ciOnCiBuoX9eu8ohGc6dWQ5B7w",
+                    "title": "Sandbox Ship Quest",
+                    "lastUpdated": "2024-10-15",
                     "isrecommended": true
                 },
                 {
                     "size": "1.5 MB",
-                    "image": "https://picsum.photos/300/200?random=3",
-                    "title": "Puzzle Master",
+                    "image": "https://i.ytimg.com/vi/3SQenzy0DpY/maxresdefault.jpg",
+                    "title": "Sandbox Siking Master",
                     "lastUpdated": "2024-03-10",
-                    "isrecommended": false
+                    "isrecommended": true
                 },
                 {
                     "size": "4.2 MB",
-                    "image": "https://picsum.photos/300/200?random=4",
-                    "title": "Racing Stars",
+                    "image": "https://i.ytimg.com/vi/bdan95CXNo0/maxresdefault.jpg",
+                    "title": "Floating Ship Stars",
                     "lastUpdated": "2024-03-20",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=1",
-            "categoryTitle": "Games"
+            "categoryImage": "https://i.ytimg.com/vi/zQfWLZhIvGw/maxresdefault.jpg",
+            "categoryTitle": "Siking titanic Mod stars"
         },
         {
             "items": [
                 {
                     "size": "1.2 MB",
-                    "image": "https://picsum.photos/300/200?random=6",
-                    "title": "File Manager Pro",
+                    "image": "https://i.ytimg.com/vi/_IwY1Kh8RZc/maxresdefault.jpg",
+                    "title": "titanic Floating Manager Pro",
                     "lastUpdated": "2024-03-18",
                     "isrecommended": true
                 },
                 {
                     "size": "0.8 MB",
-                    "image": "https://picsum.photos/300/200?random=7",
-                    "title": "Battery Saver",
+                    "image": "https://floatingsandbox.com/wp-content/uploads/2020/04/Starry-Night-1.png",
+                    "title": "Amelco Floating Siking  Saver",
                     "lastUpdated": "2024-03-12",
                     "isrecommended": false
                 },
                 {
                     "size": "1.0 MB",
-                    "image": "https://picsum.photos/300/200?random=8",
-                    "title": "Calculator Plus",
+                    "image": "https://i.ytimg.com/vi/Rk0ZlGGTYGk/maxresdefault.jpg",
+                    "title": "Titanic X mod  Plus",
                     "lastUpdated": "2024-03-22",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=5",
-            "categoryTitle": "Utilities"
+            "categoryImage": "https://chrono.ru/netcat_files/889/2442/kartinki_titanik_19.jpg",
+            "categoryTitle": "ships Mods"
         },
         {
             "items": [
                 {
                     "size": "3.5 MB",
-                    "image": "https://picsum.photos/300/200?random=10",
-                    "title": "Music Player",
+                    "image": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/04/thousand-sunny-from-one-piece.jpg?q=50&fit=crop&w=825&dpr=1.5",
+                    "title": "Thousand Sunny",
                     "lastUpdated": "2024-03-25",
                     "isrecommended": true
                 },
@@ -112,14 +112,14 @@
                 },
                 {
                     "size": "2.1 MB",
-                    "image": "https://picsum.photos/300/200?random=12",
-                    "title": "Photo Gallery",
+                    "image": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/04/moby-dick-from-one-piece.jpg?q=50&fit=crop&w=825&dpr=1.5",
+                    "title": "Moby Dick",
                     "lastUpdated": "2024-03-21",
                     "isrecommended": true
                 }
             ],
-            "categoryImage": "https://picsum.photos/300/200?random=9",
-            "categoryTitle": "Entertainment"
+            "categoryImage": "https://static.wikia.nocookie.net/onepiece/images/3/37/Thriller_Bark_Infobox.png/revision/latest/top-crop/width/200/height/150?cb=20230118010929",
+            "categoryTitle": "Bezan Black"
         }
     ],
     "youtubeVideos": [
@@ -179,7 +179,7 @@
         "send_feedback": "Send us a feedback",
         "settings_text": "Settings",
         "watch_ad_text": "Watch ad",
-        "welcome_title": "Welcome to Skin Tool ML",
+        "welcome_title": "Welcome to Floating Sandbox Ships Mods",
         "chooseLanguage": "Choose language",
         "daily_congrats": "Congratulations!",
         "downloads_left": "download left",
