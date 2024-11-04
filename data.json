@@ -18,7 +18,7 @@
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Manager",
-        "isActive": true,
+        "isActive": false,
         "appRating": "5.0",
         "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
     },
